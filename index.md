@@ -25,7 +25,7 @@
         
    ![Comparison of Average Posts and Comments on Hourly basis](https://user-images.githubusercontent.com/70064467/122598784-27323780-d022-11eb-90af-0eac17ab321a.png)
     
-   ### Conclusion:
+### Conclusion:
  - From above graph we conclude that, the best time to recevie more comments on **Ask_HN posts** is **15:00 PM** and the best time to recevie more comments on **Show_HN** is **18:00 PM**. So, if you really wanna recevie more comments on Ask_HN and Show_HN posts on hacker news, than you should posts on those time period.
 
 
