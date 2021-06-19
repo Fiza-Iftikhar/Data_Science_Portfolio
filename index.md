@@ -37,7 +37,33 @@
    - The aim of this project is to analyze the used car listings
     ![Popular_Brands](https://user-images.githubusercontent.com/70064467/122636919-a6665080-d0a0-11eb-8301-833b818d95f4.png)
 ### Why volkswagen sold the most?
-   ![Brand's price and mileage comparision](https://user-images.githubusercontent.com/70064467/122637834-8d13d300-d0a5-11eb-9f4e-0754600f1c49.png)  
+   ![Brand's price and mileage comparision](https://user-images.githubusercontent.com/70064467/122637920-0c090b80-d0a6-11eb-92b0-034131249c00.png)  
 ### CONCLUSION:
    - We can see that average milage of a cars are almost same but the price of volkswagen are comparative less than audi, mercedes and bmw. Thats why volkswagen is a most popular car because it gives good milage with reasonable price.
+
+
+
+## [Project4- Analyzing and Visualizing Earnings Based on Different Majors](https://github.com/Fiza-Iftikhar/Data_Science_Projects/tree/main/Project4-Analyzing%20and%20Visualizing%20Earnings%20Based%20on%20Different%20Majors)
+- We'll be working with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by [American Community Survey](https://www.census.gov/programs-surveys/acs/), which conducts surveys and aggregates the data.
+### Our aim is to identify:
+   * Dominant Major_category for Men and Women
+   * Top Majors in Dominant category according to the highest Employment
+   * Top Majors in Dominant category according to highest Median Salary
+
+
+![Dominant Major_catogery for Men and Women](https://user-images.githubusercontent.com/70064467/122638080-e597a000-d0a6-11eb-9fd7-1526386ffa73.png)
+
+
+![Top Majors in Dominant category of Men according to the highest Employment](https://user-images.githubusercontent.com/70064467/122638091-f8aa7000-d0a6-11eb-8a36-b83284fdb4db.png)
+
+
+![Top Majors in Dominant category of Women according to the highest Employment](https://user-images.githubusercontent.com/70064467/122638093-052ec880-d0a7-11eb-84ef-f3a8f1e09e71.png)
+
+
+
+![Top Majors in Dominant category of Men according to the highest Salary](https://user-images.githubusercontent.com/70064467/122638099-0e1f9a00-d0a7-11eb-8e84-9bdd75670c7c.png)
+
+
+![Top Majors in Dominant category of Women according to the highest Salary](https://user-images.githubusercontent.com/70064467/122638101-1546a800-d0a7-11eb-896a-410031c8b200.png)
+
 
