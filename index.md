@@ -31,12 +31,13 @@
 
 
 
+
 ## [Project3 - Exploring ebay Car Sales Data](https://github.com/Fiza-Iftikhar/Data_Science_Projects/tree/main/Project3-Exploring%20Car%20Sales%20Data)
    - In this project, we'll work with a dataset of used cars from German eBay website.
    - The aim of this project is to analyze the used car listings
-    ![Popular_Brands](https://user-images.githubusercontent.com/70064467/121692208-b9639a00-ca7c-11eb-960f-9fa40e3596e5.png)
- ### Why volkswagen sold the most?
+    ![Popular_Brands](https://user-images.githubusercontent.com/70064467/122636919-a6665080-d0a0-11eb-8301-833b818d95f4.png)
+### Why volkswagen sold the most?
    ![Brand's price and mileage comparision](https://user-images.githubusercontent.com/70064467/121692230-c1233e80-ca7c-11eb-9ed0-95ba57d2e487.png)   
-  ### CONCLUSION:
+### CONCLUSION:
    - We can see that average milage of a cars are almost same but the price of volkswagen are comparative less than audi, mercedes and bmw. Thats why volkswagen is a most popular car because it gives good milage with reasonable price.
 
