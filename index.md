@@ -1,4 +1,3 @@
-# Data Science Portfolio
 
 # [Project1 - Profitable App Profiles for the Google Play Market](https://github.com/Fiza-Iftikhar/Data_Science_Projects/tree/main/Project1-Profitable%20App)
    - As data analysts for a company that builds Android mobile apps, Our aim in this project is to find mobile app profiles that are profitable for Google Play markets. 
