@@ -1,5 +1,7 @@
+# Data Science Portfolio
 
-# [Project1 - Profitable App Profiles for the Google Play Market](https://github.com/Fiza-Iftikhar/Data_Science_Projects/tree/main/Project1-Profitable%20App)
+
+## [Project1 - Profitable App Profiles for the Google Play Market](https://github.com/Fiza-Iftikhar/Data_Science_Projects/tree/main/Project1-Profitable%20App)
    - As data analysts for a company that builds Android mobile apps, Our aim in this project is to find mobile app profiles that are profitable for Google Play markets. 
    - At our company, we only build apps that are free to download and install, and our main source of revenue consists of in-app ads. This means that our revenue for any given app is mostly influenced by the number of users that use our app. Our goal for this project is to analyze data to help our developers understand what kinds of apps are likely to attract more users.
 - [A data set](https://www.kaggle.com/lava18/google-play-store-apps/home) containing data about approximately ten thousand Android apps from Google Play.
