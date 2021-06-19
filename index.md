@@ -11,6 +11,7 @@
    - From the above analysis we conclude that, the most installed app categories are Communication, vedio players and social apps. And these app categories have a big competitor like whatsapp, Youtube, Facebook and instagram etc. So, to decide which app we should develop we should further do an analysis according to the business requirments. Or we should discuss with the top management as they know what kind of app will be possible for them to develop according to the needs of their business requriment and decision also rely on the budget constraints.
 
 
+
 ## [Project2 - Exploring Hacker News Posts](https://github.com/Fiza-Iftikhar/Data_Science_Projects/tree/main/Project2-Hacker%20News)
 - In this project, we'll work with a data set of submissions to popular technology site [Hacker News](https://news.ycombinator.com/). Hacker News is a site where user-submitted stories (known as `"posts"`) are voted and commented upon.
    - We're specifically interested in posts whose titles begin with either **Ask HN** or **Show HN**. Users submit `Ask HN` posts to ask the Hacker News community a specific question
@@ -28,4 +29,14 @@
 ### Conclusion:
  - From above graph we conclude that, the best time to recevie more comments on **Ask_HN posts** is **15:00 PM** and the best time to recevie more comments on **Show_HN** is **18:00 PM**. So, if you really wanna recevie more comments on Ask_HN and Show_HN posts on hacker news, than you should posts on those time period.
 
+
+
+## [Project3 - Exploring ebay Car Sales Data](https://github.com/Fiza-Iftikhar/Data_Science_Projects/tree/main/Project3-Exploring%20Car%20Sales%20Data)
+   - In this project, we'll work with a dataset of used cars from German eBay website.
+   - The aim of this project is to analyze the used car listings
+    ![Popular_Brands](https://user-images.githubusercontent.com/70064467/121692208-b9639a00-ca7c-11eb-960f-9fa40e3596e5.png)
+ ### Why volkswagen sold the most?
+   ![Brand's price and mileage comparision](https://user-images.githubusercontent.com/70064467/121692230-c1233e80-ca7c-11eb-9ed0-95ba57d2e487.png)   
+  ### CONCLUSION:
+   - We can see that average milage of a cars are almost same but the price of volkswagen are comparative less than audi, mercedes and bmw. Thats why volkswagen is a most popular car because it gives good milage with reasonable price.
 
